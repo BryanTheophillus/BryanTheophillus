@@ -1,3 +1,4 @@
+<img width="100%" height="auto" src="./banner.png" />
 ### Hi, I'm Bryan Theophillus
 - 🔭 I’m currently Studying at Bina Nusantara University
 - 📫 Reach me by emailing bryan.theophillus17@gmail.com
